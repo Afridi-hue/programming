@@ -1,3 +1,3 @@
 
-poda patti
+poda
 hello world
