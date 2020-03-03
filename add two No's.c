@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//sum of two numbers
 int main()
 {
 int num,x,y,sum=0;
